@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When I don't have my local files with me, and I'm using a remote browser/computer.
